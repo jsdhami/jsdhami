@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhami&label=Profile%20views&color=0e75b6&style=flat" alt="sdhami" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jsd_ashyap" target="blank"><img src="https://img.shields.io/twitter/follow/jsd_ashyap?logo=twitter&style=for-the-badge" alt="jsd_ashyap" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JsDhami_Kashyap" target="blank"><img src="https://img.shields.io/twitter/follow/jsd_ashyap?logo=twitter&style=for-the-badge" alt="jsd_ashyap" /></a> </p>
 
 - 🌱 I’m currently learning **Python, MATLAB, Cyber Security....**
 
