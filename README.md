@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/JsDhami_Kashyap" target="blank"><img src="https://img.shields.io/twitter/follow/JsDhami_Kashyap?logo=twitter&style=for-the-badge" alt="jsd_ashyap" /></a> </p>
 
-- 🌱 I’m currently learning **Python, MATLAB, Cyber Security....**
+- 🌱 I’m currently learning **Java, JavaScript, C, C++, Python, MATLAB, Cyber Security....**
 
 - 👯 I’m looking to collaborate on [OSRI](https://osri.jsdhami.com.np)
 
