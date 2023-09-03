@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [OSRI](https://osri.jsdhami.com.np)
 
-- 👨‍💻 All of my projects are available at [https://www.jsdhami.com.np](https://www.jsdhami.com.np)
+- 👨‍💻 All of my projects are available at [https://dev.jsdhami.com.np](https://dev.jsdhami.com.np)
 
 - 📝 I regularly write articles on [https://blog.jsdhami.com.np](https://blog.jsdhami.com.np)
 
