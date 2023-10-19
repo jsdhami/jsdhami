@@ -8,7 +8,7 @@
 - 🌱 My Programming Language's **Java, JavaScript, C, C++, Python, MATLAB, Cyber Security....**
 - 📫 My Skills **Flutter, Django, Java, Java with Android Studio, HTML/CSS/Javascript, Php, Figma/Adobe XD, CorelDraw, Adobe Packages, C/C++, Ethical Hacking...**
 
-- 👯 I’m looking to collaborate on [OSRI](https://osri.jsdhami.com.np)
+- 👯 I’m also on [OSRI](https://osri.jsdhami.com.np)
 
 - 👨‍💻 All of my projects are available at [https://dev.jsdhami.com.np](https://dev.jsdhami.com.np)
 
