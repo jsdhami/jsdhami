@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janak Singh Dhami [@jsdhami]</h1>
-<h3 align="center">A passionate frontend and backend developer from Nepal</h3>
+<h3 align="center">A passionate fullstack developer and Designer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhami&label=Profile%20views&color=0e75b6&style=flat" alt="sdhami" /> </p>
 
@@ -17,6 +17,7 @@
 - 📫 How to reach me **info@jsdhami.com.np**
 
 - 📄 Know about my experiences [https://www.jsdhami.com.np](https://www.jsdhami.com.np)
+- 💐 see my all designs [https://www.jsdhami.design](https://www.jsdhami.design)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
