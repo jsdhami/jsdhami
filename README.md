@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsdhami&label=Profile%20views&color=0e75b6&style=flat" alt="jsdhami" /> </p>
 
 <p align="left"> <a href="https://twitter.com/JsDhami_Kashyap" target="blank"><img src="https://img.shields.io/twitter/follow/JsDhami_Kashyap?logo=twitter&style=for-the-badge" alt="jsd_kashyap"/></a> </p>
-
+<a href="https://www.buymeacoffee.com/jsdhami"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jsdhami&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami&theme=algolia" alt="Janak Singh Dhami" /></a> </p>
