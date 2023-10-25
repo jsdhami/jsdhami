@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/JsDhami_Kashyap" target="blank"><img src="https://img.shields.io/twitter/follow/JsDhami_Kashyap?logo=twitter&style=for-the-badge" alt="jsd_ashyap" /></a> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami&theme=algolia" alt="Janak Singh Dhami" /></a> </p>
+
+
 - 🌱 My Programming Language's **Java, JavaScript, C, C++, Python, MATLAB, Cyber Security....**
 - 📫 My Skills **Flutter, Django, Java, Java with Android Studio, HTML/CSS/Javascript, Php, Figma/Adobe XD, CorelDraw, Adobe Packages, C/C++, Ethical Hacking...**
 
@@ -28,8 +32,6 @@
 <a href="https://www.linkedin.com/in/jsdhami1020" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="jsdhami" height="30" width="40" /></a>
 </p>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami" alt="Janak Singh Dhami" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
