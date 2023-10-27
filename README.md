@@ -44,3 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdhami&" alt="jsdhami" /></p>
 <p align="left">
 <a href='https://ko-fi.com/W7W8QI3N3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jsdhami1020" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://np.linkedin.com/in/jsdhami1020?trk=profile-badge">Janak Singh Dhami</a></div>
+              
