@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami&theme=algolia" alt="Janak Singh Dhami" /></a> </p>
 
 
-- 🌱 My Programming Language's **Java, JavaScript, C, C++, Python, MATLAB, Cyber Security....**
+- 🌱 My Programming Language's **Java, JavaScript, C, C++, Python, MATLAB, Dart, Ruby, ....**
 - 📫 My Skills **Flutter, Django, Java, Java with Android Studio, HTML/CSS/Javascript, Php, Figma/Adobe XD, CorelDraw, Adobe Packages, C/C++, Ethical Hacking...**
 
 - 👯 I’m also on [OSRI](https://osri.jsdhami.com.np)
