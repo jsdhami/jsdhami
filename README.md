@@ -14,7 +14,6 @@
 - 🌱 My Programming Language's **Java, JavaScript, TypeScript, C, C++, Python, MATLAB, Dart, Ruby, ....**
 - 📫 My Skills **Flutter, Django, Ruby on Rails, Cypress, Java, Java with Android Studio, HTML/CSS/Javascript, Php, Figma/Adobe XD, CorelDraw, Adobe Packages, C/C++, Ethical Hacking...**
 
-- 👯 I’m also on [OSRI](https://osri.jsdhami.com.np)
 - I’m CEO of [SudurTech](https://github.com/SudurTech)
 
 - 👨‍💻 All of my projects are available at [https://dev.jsdhami.com.np](https://dev.jsdhami.com.np)
