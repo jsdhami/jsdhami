@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami&theme=algolia" alt="Janak Singh Dhami" /></a> </p>
 
 
-- 🌱 My Programming Language's **Java, JavaScript, TypeScript, C, C++, Python, MATLAB, Dart, Ruby, R....**
+- 🌱 My Programming Language's **Q-Basic😊, Java, JavaScript, TypeScript, C, C++, Python, MATLAB, Dart, Ruby, R....**
 - 📫 My Skills **Flutter, Django, Ruby on Rails, React, Vite, NEXT.JS, Prisma, GraphQL, Socket.io, MongoDB, MySQL, PostgresSQL, SQLite, Cypress, Java, Java with Android Studio, HTML/CSS/Javascript, Php, Figma/Adobe XD, CorelDraw, Adobe Packages, C/C++, Ethical Hacking...**
 
 - I’m CEO & Founder of [SudurTech](https://github.com/SudurTech)
