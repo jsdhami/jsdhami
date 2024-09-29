@@ -17,14 +17,11 @@
 - 🌱 My Programming Language's **Q-Basic😊, Java, JavaScript, TypeScript, PHP, C, C++, Python, MATLAB, Dart, Ruby, R, C#, GoLang.**
 - 📫 My Skills **Flutter, Django, Ruby on Rails, React, Vite, NEXT.JS, CSS, Bootstrap, TailwindCSS, Numpy, Pandas, Matplotlib, PlotyJS, Seaborn, PowerBI, POPsql, Prisma, GraphQL, Socket.io, MongoDB, MySQL, PostgresSQL, SQLite, Cypress, Java, Java with Android Studio, HTML/CSS/Javascript, Figma/Adobe XD, CorelDraw, All Adobe Packages, C/C++, Ethical Hacking...**
 
-- I’m CEO & Founder of [SudurTech](https://github.com/SudurTech)
-
+- I'm President of [Tri-Chandra Research Group](https://github.com/tc-researchgroup)
+- 📹 Content Creator at [SciTech Nepal](https://www.youtube.com/@SciTechNepal)
 - 👨‍💻 All of my projects are available at [https://dev.jsdhami.com.np](https://dev.jsdhami.com.np)
-
 - 📝 I regularly write articles on [https://blog.jsdhami.com.np](https://blog.jsdhami.com.np)
-
 - 📫 How to reach me **info@jsdhami.com.np**
-
 - 📄 Know about my experiences [https://www.jsdhami.com.np](https://www.jsdhami.com.np)
 - 💐 see my all designs [https://www.jsdhami.design](https://www.jsdhami.design)
 
