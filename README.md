@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://twitter.com/jsdhami1020" target="blank"><img src="https://img.shields.io/twitter/follow/jsdhami1020?logo=twitter&style=for-the-badge" alt="Janak Singh Dhami"/></a> </p>
 
     
-<p align="left"><a href="https://www.buymeacoffee.com/jsdhami"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jsdhami&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsdhami&theme=algolia" alt="Janak Singh Dhami" /></a> </p>
 
 
