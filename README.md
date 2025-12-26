@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Physicist · Full-Stack Developer · UX/UI Designer · Open-Source Contributor</b>
+  <b>Researcher · Full-Stack Developer · UX/UI Designer · Open-Source Contributor</b>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ## 🧭 About Me
 
-I am a **physicist and researcher from Nepal** working at the intersection of **plasma physics, atmospheric electricity, and lightning–air quality interactions**. Alongside research, I design and engineer **scalable web and mobile systems**, blending scientific rigor with clean, user-centered design.
+A **Physicist Researcher and Full-Stack Developer from Nepal** working at the intersection of **Plasma Physics, Atmospheric Physics focusing on lightning**. Alongside research, I design and engineer **scalable web and mobile systems**, blending scientific rigor with clean, user-centered design.
 
 I actively contribute to **open-source**, promote **student-led research**, and lead national research communities.
 
