@@ -29,7 +29,7 @@
 
 ## 🧭 About Me
 
-A **Physicist Researcher and Full-Stack Developer from Nepal** working at the intersection of **Plasma Physics, Atmospheric Physics focusing on lightning**. Alongside research, I design and engineer **scalable web and mobile systems**, blending scientific rigor with clean, user-centered design.
+A **Student Researcher and Full-Stack Developer from Nepal** working at the intersection of **Plasma Physics, Atmospheric Physics focusing on lightning**. Alongside research, I design and engineer **scalable web and mobile systems**, blending scientific rigor with clean, user-centered design.
 
 I actively contribute to **open-source**, promote **student-led research**, and lead national research communities.
 
