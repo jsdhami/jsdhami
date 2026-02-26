@@ -70,7 +70,7 @@ Adobe XD · CorelDRAW · Adobe Creative Suite
 
 ## 🧪 Research & Leadership
 
-- **Founder(Initiator)** — Nepalese Society of Student Researchers ([NSSR](https://nssrnepal.org))  
+- **Founder (Initiator)** — Nepalese Society of Student Researchers ([NSSR](https://nssrnepal.org))  
 
 - **Founding President** — Tri-Chandra Research Group ([TCRG](https://github.com/tcresearchgroup)) 
 
